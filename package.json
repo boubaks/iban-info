@@ -1,0 +1,24 @@
+{
+  "name": "iban-info",
+  "version": "1.0.0",
+  "description": "International Bank Account Number Library (create/check/get IBAN, bank code, bic, account number...)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boubaks/iban-info.git"
+  },
+  "keywords": [
+    "iban",
+    "bank",
+    "bic"
+  ],
+  "author": "boubaks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boubaks/iban-info/issues"
+  },
+  "homepage": "https://github.com/boubaks/iban-info#readme"
+}
